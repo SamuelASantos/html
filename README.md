@@ -3,3 +3,4 @@ Estudo relacionado ao HTML baseado no conteúdo da plataforma [DIO](https://web.
 
 1. [Tags de estrutura básica](basictags.md)
 2. [Tags de semântica](semantictags.md)
+3. [Tags de textos e links](text-links-tags.md)
